@@ -11,8 +11,7 @@ var slingShot;
 var score = 0;
 
 function preload(){
- // polygon_img=loadImage("polygon.png");
- // backgroundImg=loadImage("bg.png");
+
 }
 
 function setup() {
